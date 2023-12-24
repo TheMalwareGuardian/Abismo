@@ -249,7 +249,7 @@ python AbismoInstaller.py
 
 ## Videos
 
-[![](https://github.com/TheMalwareGuardian/Abismo/tree/main/videos/V01.png)]({https://github.com/TheMalwareGuardian/Abismo/tree/main/videos/V01.mp4})
+<a href="videos/V01.mp4" title="AbismoBootkitPkg V0.1"><img src="videos/V01.png" width="50%" alt="AbismoBootkitPkg V0.1" /></a>
 
 
 
@@ -262,6 +262,3 @@ python AbismoInstaller.py
 ## License
 
 This project is licensed under the GNU GLPv3 License - see the [LICENSE](LICENSE) file for details.
-
-
-## 
