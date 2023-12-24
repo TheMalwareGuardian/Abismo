@@ -249,11 +249,9 @@ python AbismoInstaller.py
 
 ## Videos
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="videos/V01.mp4" type="video/mp4">
-  </video>
-</figure>
+[![](https://github.com/TheMalwareGuardian/Abismo/tree/main/videos/V01.png)]({https://github.com/TheMalwareGuardian/Abismo/tree/main/videos/V01.mp4})
+
+
 
 ## Resources
 
