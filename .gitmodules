@@ -1,0 +1,5 @@
+# Zydis
+[submodule "zydis"]
+    path = Driver/Includes/zydis
+    url = https://github.com/zyantific/zydis.git
+    branch = master

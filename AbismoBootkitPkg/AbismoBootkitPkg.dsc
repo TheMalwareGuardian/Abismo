@@ -6,7 +6,7 @@
 
 [Defines]
     PLATFORM_NAME               = AbismoBootkitPkg
-    PLATFORM_GUID               = 0211d257-f399-415d-a3b8-44013b5a1dc4 # See http://www.guidgen.com/
+    PLATFORM_GUID               = 0211d257-f399-415d-a3b8-44013b5a1dc4      # See http://www.guidgen.com/
     PLATFORM_VERSION            = 1.00
     DSC_SPECIFICATION           = 1.26
     OUTPUT_DIRECTORY            = Build/AbismoBootkitPkg
@@ -76,5 +76,5 @@
 
 # List the various components or modules to build for this package specifically built as a result of when the package .DSC file is built; not when the package is referenced by the [Packages] section of an .INF file. You can also specify architecture specific sections by appending a period and architecture to the end of Components (e.g.[Components.IA32]). This section can also be used for building a library referenced in the [Packages] section of an .INF file.    This is used when you want to build a separate library and link to it in a traditional way or for debugging the library to ensure it builds properly. There must be at least one .inf file listed in the components section for the build to be successful. Note: that the relative path is from the edk2 base directory and not the package directory (also referred to as the Work Space Directory)
 [Components]
-    AbismoBootkitPkg/Application/AbismoApplicationUEFI.inf # UEFI Application
-    AbismoBootkitPkg/Driver/AbismoDriverDXERuntime.inf # DXE Runtime Driver
+    AbismoBootkitPkg/Application/AbismoApplicationUEFI.inf                      # UEFI Application
+    AbismoBootkitPkg/Driver/AbismoDriverDXERuntime.inf                          # DXE Runtime Driver
