@@ -14,7 +14,7 @@
 * [Building an EDK2 UEFI application (Windows)](#buildinganedk2uefiapplicationwindows)
 * [UEFI Code in Runtime](#ueficodeinruntime)
 * [Abismo UEFI Windows Bootkit](#abismouefiwindowsbootkit)
-* [Videos](#videos)
+* [Rooted 2024](#rooted)
 * [Resources](#resources)
 * [Master's Degree](#mastersdegree)
 
@@ -240,37 +240,9 @@ Furthermore, the Abismo UEFI Windows Bootkit incorporates functionalities observ
 It is designed to be installed on systems where Secure Boot has been disabled, or alternatively, through physical access to the target computer, a scenario commonly referred to as an "[evil maid](https://encyclopedia.kaspersky.com/glossary/evil-maid/)" attack.
 
 
-### Download
+<div id='rooted'/>
 
-```
-
-```
-
-
-### Configuration
-
-```
-
-```
-
-
-### Build
-
-```
-
-```
-
-
-### Installation
-
-```
-
-```
-
-
-<div id='videos'/>
-
-## Videos
+## Rooted 2024
 
 
 <div id='resources'/>

@@ -51,5 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Visual Studio Code
+.vscode
+
 # Backup
 backup/
