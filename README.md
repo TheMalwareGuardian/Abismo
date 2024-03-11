@@ -244,6 +244,8 @@ It is designed to be installed on systems where Secure Boot has been disabled, o
 
 ## Rooted 2024
 
+* ***[Conference](https://drive.proton.me/urls/QX1JMYPSZW#prfEKyo2MZ2l)***: En las Raíces del Mal - Una Inmersión al Desarrollo de Bootkits UEFI (Videos and Photos).
+
 
 <div id='resources'/>
 
