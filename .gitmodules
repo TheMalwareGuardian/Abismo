@@ -1,3 +1,0 @@
-[submodule "AbismoBootkitPkg/Driver/Includes/zydis"]
-	path = AbismoBootkitPkg/Driver/Includes/zydis
-	url = https://github.com/zyantific/zydis

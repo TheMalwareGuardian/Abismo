@@ -53,6 +53,3 @@ dkms.conf
 
 # Visual Studio Code
 .vscode
-
-# Backup
-backup/
